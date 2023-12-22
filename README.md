@@ -29,5 +29,17 @@ SDK : <a href="https://eclipseide.org/">Eclipse</a>
 ![릴레이션 스키마](https://github.com/yuzy1022/Book-Store-POS/assets/112682861/5a3cd7e2-79a9-419f-a486-1ce9fd7e4216)  
 <br>
 
+# 화면 및 세부 기능
+![Web 1920 – 1](https://github.com/yuzy1022/Book-Store-POS/assets/112682861/2ee457da-2a38-454c-a3ea-44f2a5104e0d)  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%99%94%EB%A9%B4">로그인 화면</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EC%B2%AB-%ED%99%94%EB%A9%B4">첫 화면</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4">메인 화면</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%ED%9A%8C%EC%9B%90-%EC%A1%B0%ED%9A%8C">회원 조회</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EA%B2%B0%EC%A0%9C-%EC%88%98%EB%8B%A8">결제 수단</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EC%98%88%EC%95%BD-%EA%B4%80%EB%A6%AC">예약 관리</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B4">결제 정보</a>  
+<a href="https://github.com/yuzy1022/Book-Store-POS/wiki/%ED%99%94%EB%A9%B4-%EB%B0%8F-%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5#%EB%A7%A4%EC%B6%9C-%EC%A0%95%EB%B3%B4">매출 정보</a>  
+<br>
+
 # 팀
 <a href="https://github.com/yuzy1022">박상원</a>, <a href="https://github.com/DapsipniPotato">박재현</a>, <a href="https://github.com/SongHyeongJin">송형진</a>
