@@ -17,9 +17,9 @@
 ------
 
 ## 사용 기술 및 환경
-Language : <a href="https://www.java.com/ko/">Java</a>  
-Database : <a href="https://www.mysql.com/">Mysql</a>  
-SDK : <a href="https://eclipseide.org/">Eclipse</a>  
+Language : Java (9.0.4)  
+Database : Mysql (8.0.31)  
+SDK : Eclipse (Oxygen.3a Release (4.7.3a))  
 <br>
 
 ------
