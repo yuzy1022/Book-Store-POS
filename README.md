@@ -24,12 +24,6 @@ SDK : Eclipse (Oxygen.3a Release (4.7.3a))
 
 ------
 
-## 프로그램 구조도
-![image](https://github.com/yuzy1022/Book-Store-POS/assets/112682861/4489f3cc-a51a-4f39-b25c-24230bad4d2c)
-<br>
-
-------
-
 ## DB 구조
 ![ERD](https://github.com/yuzy1022/Book-Store-POS/assets/112682861/7345e45c-1ed5-41e6-b3ae-5e5146610792)  
 ![릴레이션 스키마](https://github.com/yuzy1022/Book-Store-POS/assets/112682861/5a3cd7e2-79a9-419f-a486-1ce9fd7e4216)  
